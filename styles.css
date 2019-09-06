@@ -84,21 +84,21 @@ li{
 }
 .tb1{
     background-image: url('tb1.jpg');
-    width: 400px;
+    width: 500px;
     height:200px;
     background-position: center center;
     text-align: center; 
 }
 .tb2{
     background-image: url('tb2.jpg');
-     width:430px;
+     width:500px;
     height:200px;
     background-position: center center;
     text-align: center; 
 }
 .tb3{
     background-image: url('tb3.jpg');
-     width: 430px;
+     width: 500px;
     height:200px;
     background-position: center center;
     text-align: center; 
